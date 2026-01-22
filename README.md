@@ -1,1 +1,3 @@
-# galileo
+# Galileo
+
+## Fase 0
