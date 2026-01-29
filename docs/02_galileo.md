@@ -2,11 +2,15 @@
 
 Galileo is the European Global Navigation Satellite System. Unlike other systems, it was designed from the ground up for civilian use, offering highly stable signals and innovative services that were not available in legacy systems like GPS.
 
+![](https://github.com/Elenadr/galileo/blob/main/img/satellite.jpg?raw=true)
+Galileo Satellite
+
 ---
 
 ## 1. Galileo Services
 Galileo does not just provide a single "position." It offers different levels of service depending on the user's needs:
-
+![](https://github.com/Elenadr/galileo/blob/main/img/Galileo%services.png?raw=true)
+Galileo Services
 * **Open Service (OS):** The free-to-access service used by smartphones and car navigation. It provides positioning and timing.
 * **High Accuracy Service (HAS):** A unique, free service that provides decimeter-level accuracy (approx. 20cm) globally. It is transmitted directly via the E6 signal.
 * **Public Regulated Service (PRS):** An encrypted, robust service restricted to government-authorized users (police, military, emergency services). It is designed to be highly resistant to jamming.
@@ -59,3 +63,4 @@ By providing signals across E1, E5, and E6 simultaneously, Galileo allows profes
 
 * **ESA Navipedia.** *The Reference Wiki for Global Navigation Satellite Systems.* Available at: [https://gssc.esa.int/navipedia/](https://gssc.esa.int/navipedia/)
 * **GSA (now EUSPA).** *GNSS User Technology Report.* Issued periodically to track the evolution of receivers and constellations.
+
