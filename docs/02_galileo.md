@@ -9,7 +9,7 @@ Galileo Satellite
 
 ## 1. Galileo Services
 Galileo does not just provide a single "position." It offers different levels of service depending on the user's needs:
-![](https://github.com/Elenadr/galileo/blob/main/img/Galileo%services.png?raw=true)
+![](https://github.com/Elenadr/galileo/blob/main/img/Galileo%20services.png?raw=true)
 Galileo Services
 * **Open Service (OS):** The free-to-access service used by smartphones and car navigation. It provides positioning and timing.
 * **High Accuracy Service (HAS):** A unique, free service that provides decimeter-level accuracy (approx. 20cm) globally. It is transmitted directly via the E6 signal.
@@ -63,4 +63,5 @@ By providing signals across E1, E5, and E6 simultaneously, Galileo allows profes
 
 * **ESA Navipedia.** *The Reference Wiki for Global Navigation Satellite Systems.* Available at: [https://gssc.esa.int/navipedia/](https://gssc.esa.int/navipedia/)
 * **GSA (now EUSPA).** *GNSS User Technology Report.* Issued periodically to track the evolution of receivers and constellations.
+
 
